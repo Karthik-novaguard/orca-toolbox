@@ -1,3 +1,9 @@
+# Change directory to iam-ape
+
+```bash
+cd iam-ape
+```
+
 # Update package lists
 
 ```bash
